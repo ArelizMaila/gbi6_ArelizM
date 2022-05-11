@@ -13,3 +13,4 @@
 
 ## EJECUCIÓN 
 En este repositorio se tienen almacenados las tareas y exámenes de la clase de bioinformática
+Uso de GitHub texto para control de la version
